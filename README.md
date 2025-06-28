@@ -1,4 +1,4 @@
-![Screenshot 2025-06-28 160604](https://github.com/user-attachments/assets/343ff7ec-a175-4ca1-8164-0f5dadc12d16)
+
 # 📊 Adidas Sales Analysis – Power BI Project
 
 ## 📝 Overview
@@ -10,7 +10,7 @@ The dashboard provides a comprehensive view of sales performance, enabling the i
 ---
 
 📸 You can find THE DEMO HERE 
-![Uploading Screenshot 2025-06-28 160604.png…]()
+![Screenshot 2025-06-28 160604](https://github.com/user-attachments/assets/343ff7ec-a175-4ca1-8164-0f5dadc12d16)
 
 
 ## 🎯 Business Requirements
