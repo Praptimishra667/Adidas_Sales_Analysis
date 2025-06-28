@@ -101,6 +101,5 @@ Adidas-Sales-Analysis/
 ## 🔗 Contact
 
 For queries or collaboration:  
-**Prapti Mishra**  
-📧 praptixyz@email.com (replace with actual contact)  
-🔗 [LinkedIn](https://www.linkedin.com)
+Made by **Prapti Mishra**  
+📧 praptimishra977@email.com 
