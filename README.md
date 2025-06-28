@@ -66,23 +66,6 @@ The dashboard provides a comprehensive view of sales performance, enabling the i
 
 ---
 
-## 📂 Project Structure
-
-```
-Adidas-Sales-Analysis/
-│
-├── Dataset/
-│   └── adidas_sales_data.csv
-│
-├── PowerBI_Dashboard.pbix
-├── README.md
-└── Screenshots/
-    ├── dashboard_overview.png
-    └── charts_preview.png
-```
-
----
-
 ## 🚀 Tools Used
 
 - **Power BI** – for data modeling and dashboard creation
